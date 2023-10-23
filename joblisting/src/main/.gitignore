@@ -1,0 +1,16 @@
+# Java build and IDE files
+../../../target/
+*.iml
+.idea/
+
+# Compiled Java classes
+*.class
+
+# Log files
+*.log
+
+# Spring Boot configuration files
+application.properties
+application.yml
+application-dev.yml
+application-prod.yml
